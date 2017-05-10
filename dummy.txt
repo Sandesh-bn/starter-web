@@ -1,2 +1,4 @@
 first dummy line
 second dummy line
+third dummy line
+fourth dummmy line
